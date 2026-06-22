@@ -12,9 +12,10 @@ This project uses performance data from Europe's Top 5 Leagues to evaluate talen
 *   **Carry Factor:** A custom metric I developed to identify players who contribute significantly to their team's output vs. those playing in dominant teams.
 
 ## 📸 Dashboard Snapshots
-*(You can upload your screenshots here)*
-![Ballon d'Or Leaderboard](image_57147d.png)
-![Global Power Map](image_5717be.png)
+![Dashboard 1] <img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/fda7c2d4-e0b0-43d5-ae16-86a4d17313f3" />
+
+![Dashboard 2]<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/9b22075e-4842-47ce-9026-aa4b8944d601" />
+
 
 ## 🛠️ Tech Stack
 *   **Visualization:** Tableau Public
