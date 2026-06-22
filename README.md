@@ -24,6 +24,7 @@ This project moves beyond raw stats to provide deep-dive scouting insights:
 
 ## 📸 Dashboard Snapshots
 (https://github.com/user-attachments/assets/fda7c2d4-e0b0-43d5-ae16-86a4d17313f3)
+
 (https://github.com/user-attachments/assets/9b22075e-4842-47ce-9026-aa4b8944d601)
 
 ## 🛠️ Tech Stack
