@@ -23,9 +23,9 @@ This project moves beyond raw stats to provide deep-dive scouting insights:
 *   **Global Power Map:** A talent scouting tool visualizing which countries are producing the most top-tier talent across Europe's Top 5 leagues.
 
 ## 📸 Dashboard Snapshots
-<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/f223661c-3d42-4d41-904b-575c6f077d23" />
+![]<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/f223661c-3d42-4d41-904b-575c6f077d23" />
 
-<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/c3212e9c-6d16-4b08-861c-1840d566f4ef" />
+![]<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/c3212e9c-6d16-4b08-861c-1840d566f4ef" />
 
 
 ## 🛠️ Tech Stack
