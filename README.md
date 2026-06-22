@@ -7,12 +7,18 @@ An end-to-end sports analytics project exploring data engineering and predictive
 ## 📊 Project Philosophy
 I built this out of a personal curiosity: **Standard stats (Goals/Assists) favor players on elite teams.** I wanted to see if I could build a system to identify "Unsung Heroes"—players like Deniz Undav—who perform at an elite level but are often overlooked because they play for smaller teams or don't win titles.
 
+## 🧠 Methodology: How I Engineered the Metrics
+Instead of relying on raw volume, I developed a custom-weighted scoring system to normalize performance across different leagues and positions:
+
+*   **Weighting Strategy:** I assigned importance weights based on the player's primary role. For example, defensive metrics (interceptions, tackles) are weighted more heavily for defenders, while conversion rates and key passes are prioritized for attackers. 
+*   **The "Master Predictor Score":** This is a weighted average of efficiency and volume. It’s not just about *how many* goals a player scored, but their conversion rate, successful pass completion, and defensive involvements. This creates a more holistic view of a player's utility.
+*   **The "Carry Factor":** To identify "Unsung Heroes," I calculated the ratio of a player's individual output against their team's total production. This highlights players who consistently contribute to a high percentage of their team's attack, even when playing for teams further down the league table.
+
 ## 🚀 Analytical Features
 This project moves beyond raw stats to provide deep-dive scouting insights:
 
-*   **Raw Stats vs. Ballon d'Or Predictor:** I compared raw output (Goals/Assists) against a custom-weighted **Master Predictor Score** to see which players are statistically "over-performing" their team’s success.
-*   **The "Carry Factor":** A custom metric designed to identify players who essentially "carry" their team's production. This helps teams scout undervalued players who could "ball out" if transferred to a bigger system.
-*   **Positional Podiums:** I created custom, role-specific weightings for different positions. This ensures we aren't unfairly comparing a defensive midfielder's impact to a striker's.
+*   **Raw Stats vs. Ballon d'Or Predictor:** I compared raw output (Goals/Assists) against the **Master Predictor Score** to see which players are statistically "over-performing" their team’s success.
+*   **Positional Podiums:** Custom, role-specific weightings ensure we aren't unfairly comparing a defensive midfielder to a striker.
 *   **Kopa Trophy Predictor:** A dedicated U-21 power ranking to identify the next generation of global stars.
 *   **Global Power Map:** A talent scouting tool visualizing which countries are producing the most top-tier talent across Europe's Top 5 leagues.
 
