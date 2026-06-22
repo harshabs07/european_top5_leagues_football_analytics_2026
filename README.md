@@ -5,7 +5,7 @@ An end-to-end sports analytics project exploring data engineering and predictive
 🔗 **[View the Live Interactive Dashboard on Tableau Public](https://public.tableau.com/app/profile/harsha.subramanian/viz/EuropeanTop5LeaguesFootballAnalytics2026/BallondOrvsRaw?publish=yes)**
 
 ## 📊 Project Philosophy
-I built this out of a personal curiosity: **Standard stats (Goals/Assists) favor players on elite teams.** I wanted to see if I could build a system to identify "Unsung Heroes"—players like Deniz Undav—who perform at an elite level but are often overlooked because they play for smaller teams or don't win titles.
+I built this out of a personal curiosity: **Standard stats (Goals/Assists) favor players on elite teams.** I wanted to see if I could build a system to identify "Unsung Heroes"—players like Vedant Muriqi—who perform at an elite level but are often overlooked because they play for smaller teams or don't win titles.
 
 ## 🧠 Methodology: How I Engineered the Metrics
 Instead of relying on raw volume, I developed a custom-weighted scoring system to normalize performance across different leagues and positions:
