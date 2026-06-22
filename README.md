@@ -21,5 +21,4 @@ This project uses performance data from Europe's Top 5 Leagues to evaluate talen
 *   **Data Pipeline:** Python (Pandas/SQLAlchemy), MySQL
 *   **Concepts:** Metric Engineering, Exploratory Data Analysis, Data Storytelling
 
----
-*Note: This is an ongoing learning project. I'm actively exploring new ways to refine the predictive scoring logic.*
+
